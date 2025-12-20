@@ -57,7 +57,7 @@
     "next-themes": "latest",
     "react": "19.0.1",
     "react-day-picker": "8.10.1",
-    "react-dom": "19.0.1",
+    "react-dom": "19.2.0",
     "react-hook-form": "^7.54.1",
     "react-motion": "^0.5.2",
     "react-photo-album": "latest",
